@@ -14,3 +14,11 @@ new File([]....)
 ```js
 dom.dispatchEvent(event)
 ```
+
+#### 参考资料
+- [div转svg,svg转img](https://blog.csdn.net/u010081689/article/details/50728854)
+- [contenteditable="true" 焦点位置插入节点](https://zhuanlan.zhihu.com/p/26567645)
+- [svg转png](http://web.jobbole.com/84244/)
+- [svg,file,base64,blob转化](https://my.oschina.net/hhtt/blog/1631636)
+- [base64,blob,file互转2](https://blog.csdn.net/cuixiping/article/details/45932793)
+- javascript高级程序设计3
